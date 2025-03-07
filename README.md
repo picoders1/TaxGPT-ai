@@ -26,7 +26,7 @@ You need to set up a project on Firebase and enable Firebase Authentication and 
 - Make sure to handle sensitive information such as API keys securely, especially when sharing the code publicly.
 
 ### Contributors:
-- Priyanshu Gupta
+- Piku 
 
 ### License:
 - MIT License
